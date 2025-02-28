@@ -6,31 +6,21 @@ This repository contains a Simple Calculator application built using Java. It pe
 
 Features 🔥
 
-Addition
-
-Subtraction
-
-Multiplication
-
-Division (with zero division protection)
-
-Decimal point support
-
-Negative number conversion
-
-Clear functionality
-
-Delete (Backspace) functionality
-
+Addition,
+Subtraction,
+Multiplication,
+Division (with zero division protection),
+Decimal point support,
+Negative number conversion,
+Clear functionality,
+Delete (Backspace) functionality,
 Error handling for invalid inputs
 
 
 Technologies Used 🔥
 
-Java
-
-Swing (GUI Library)
-
+Java,
+Swing (GUI Library),
 AWT (Abstract Window Toolkit)
 
 
