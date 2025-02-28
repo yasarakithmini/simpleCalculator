@@ -3,6 +3,7 @@ Simple Calculator (Java)
 
 This repository contains a Simple Calculator application built using Java. It performs basic arithmetic operations with a graphical user interface (GUI).
 
+
 Features 🔥
 
 Addition
@@ -22,6 +23,7 @@ Clear functionality
 Delete (Backspace) functionality
 
 Error handling for invalid inputs
+
 
 Technologies Used
 
