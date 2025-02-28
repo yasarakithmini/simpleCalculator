@@ -25,7 +25,7 @@ Delete (Backspace) functionality
 Error handling for invalid inputs
 
 
-Technologies Used
+Technologies Used 🔥
 
 Java
 
